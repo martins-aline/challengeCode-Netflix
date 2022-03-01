@@ -8,7 +8,9 @@ Neste projeto o objetivo foi reconstruir uma interface semelhante a da Netflix, 
  - CSS3 
  - Posicionamento de elementos com Flexbox
  - Técnicas de containers e variáveis 
- - Plugins JQuery                      
+ - Plugins JQuery   
+ - Owl Carosel
+ - Font Owesome                  
 
 ### Veja como ficou:
 
